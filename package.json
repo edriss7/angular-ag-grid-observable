@@ -11,6 +11,8 @@
   },
   "private": true,
   "dependencies": {
+    "@ag-grid-community/all-modules": "^24.0.0",
+    "@ag-grid-community/angular": "^24.0.0",
     "@angular/animations": "~10.0.6",
     "@angular/common": "~10.0.6",
     "@angular/compiler": "~10.0.6",
@@ -21,7 +23,8 @@
     "@angular/router": "~10.0.6",
     "ag-grid-angular": "^24.0.0",
     "ag-grid-community": "^24.0.0",
-    "rxjs": "~6.5.5",
+    "rxjs": "^6.6.3",
+    "rxjs-compat": "^6.6.3",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },
